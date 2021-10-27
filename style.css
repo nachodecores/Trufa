@@ -1,0 +1,23 @@
+h1 {
+font-family: 'Trebuchet MS';
+}
+
+ul {
+    font-size: 14pt;
+    list-style-type: none;
+}
+
+a {
+    border: groove green 1px;
+    font-style: normal;
+    text-decoration: none;
+}
+
+p {
+    box-sizing: border-box;
+    width: 600px;
+}
+
+body {
+    background-color: lightslategray;
+}
